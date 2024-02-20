@@ -21,7 +21,7 @@ class Solution:
             hash_table[num] = i
         # If no solution is found, return an empty list
         return []
-
+   
 # Example usage:
 solution = Solution()
 nums = [2, 7, 11, 15]
