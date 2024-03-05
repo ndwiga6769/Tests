@@ -15,6 +15,11 @@
 # • each element of array T is an integer within the range [1..1,000,000,000].
 # Copyright 2009-2023 by Codility Limited. All Rights Reserved. Unauthorized copying, publication or disclosure prohibited.
 
+
+
+
+
+
 def solution(T):
     max_candies = len(set(T))  # Total unique types of candies
     half_candies = len(T) // 2
