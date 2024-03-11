@@ -11,3 +11,9 @@ def triple_trouble(one, two, three):
         combined += one[i] + two[i] + three[i]  
     return combined
      
+
+
+
+
+
+     
